@@ -6,8 +6,13 @@ The project was trained and evaluated on the **SynthRAD2023** public dataset.
 
 ---
 
+Links :
+[SynthRAD2023 Dataset](https://zenodo.org/records/7260705)   
+[![Hugging Face](https://img.shields.io/badge/Demo-HuggingFace-yellow.svg)](https://huggingface.co/spaces/jihane12/ct-mri_translation)
+
+
 ## 📂 Repository Structure
-- `3D_UNet_MRI_CT_Translation.ipynb` → Main training and evaluation notebook  
+- `3D_UNet_MRI_CT_Translation.ipynb` → Main training and evaluation code notebook  
 - `models/` → Saved model checkpoints (`.pt` files)  
 - `results/` → Evaluation metrics and visual results  
 - `HUGGINGFACE_LINK.txt` → Direct link to interactive demo and project files on Hugging Face  
